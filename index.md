@@ -26,17 +26,12 @@ I'm ready to deal with difficult tasks, to interact closely with team members an
 
 ### Padawans
 
-- FancyCalc
+- [FancyCalc](https://github.com/kateLap/FancyCalc)
 
-  https://github.com/kateLap/FancyCalc
-- PadawansTask1
+- [PadawansTask1](https://github.com/kateLap/PadawansTask1)
 
-  https://github.com/kateLap/PadawansTask1
-- PadawansTask2
+- [PadawansTask2](https://github.com/kateLap/PadawansTask2)
 
-  https://github.com/kateLap/PadawansTask2
-- PadawansTask3
-
-  https://github.com/kateLap/PadawansTask3
+- [PadawansTask3](https://github.com/kateLap/PadawansTask3)
 
 [Up](#start)
