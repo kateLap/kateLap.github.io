@@ -24,7 +24,7 @@ I'm ready to deal with difficult tasks, to interact closely with team members an
 
 ## LINKS <a name="3"></a>
 
-### Padawans
+### Padawans tasks
 
 - [FancyCalc](https://github.com/kateLap/FancyCalc)
 
@@ -33,5 +33,10 @@ I'm ready to deal with difficult tasks, to interact closely with team members an
 - [PadawansTask2](https://github.com/kateLap/PadawansTask2)
 
 - [PadawansTask3](https://github.com/kateLap/PadawansTask3)
+
+### Tic-Tac-Toe application
+
+- [TicTacToe](https://github.com/kateLap/TicTacToe)
+
 
 [Up](#start)
