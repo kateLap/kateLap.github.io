@@ -38,6 +38,25 @@ I'm ready to deal with difficult tasks, to interact closely with team members an
 
 - [PadawansTask5](https://github.com/kateLap/PadawansTask5)
 
+- [PadawansTask6](https://github.com/kateLap/PadawansTask6)
+
+- [PadawansTask7](https://github.com/kateLap/PadawansTask7)
+
+- [PadawansTask8](https://github.com/kateLap/PadawansTask8)
+
+- [PadawansTask9](https://github.com/kateLap/PadawansTask9)
+
+- [PadawansTask10](https://github.com/kateLap/PadawansTask10)
+
+- [PadawansTask11](https://github.com/kateLap/PadawansTask11)
+
+- [PadawansTask12](https://github.com/kateLap/PadawansTask12)
+
+- [PadawansTask13](https://github.com/kateLap/PadawansTask13)
+
+- [PadawansTask15](https://github.com/kateLap/PadawansTask15)
+
+
 ### Tic-Tac-Toe application
 
 - [TicTacToe](https://github.com/kateLap/TicTacToe)
