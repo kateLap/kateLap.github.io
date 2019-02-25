@@ -26,7 +26,7 @@ I'm ready to deal with difficult tasks, to interact closely with team members an
 
 ### Codewars profile
 
--[Codewars](https://www.codewars.com/users/kateLapotko)
+- [Codewars](https://www.codewars.com/users/kateLapotko)
 
 ### Padawans tasks
 
