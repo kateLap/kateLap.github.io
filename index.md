@@ -24,6 +24,10 @@ I'm ready to deal with difficult tasks, to interact closely with team members an
 
 ## LINKS <a name="3"></a>
 
+### Codewars profile
+
+-[Codewars](https://www.codewars.com/users/kateLapotko)
+
 ### Padawans tasks
 
 - [FancyCalc](https://github.com/kateLap/FancyCalc)
