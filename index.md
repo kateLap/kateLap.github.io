@@ -24,9 +24,9 @@ I'm ready to deal with difficult tasks, to interact closely with team members an
 
 ## LINKS <a name="3"></a>
 
-### Codewars profile
+### CodeWars profile
 
-- [Codewars](https://www.codewars.com/users/kateLapotko)
+- [CodeWars](https://www.codewars.com/users/kateLapotko)
 
 ### Padawans tasks
 
@@ -50,6 +50,10 @@ I'm ready to deal with difficult tasks, to interact closely with team members an
 ### Tic-Tac-Toe application
 
 - [TicTacToe](https://github.com/kateLap/TicTacToe)
+
+### Fibonacci algorithm
+
+- [Fibonacci](https://github.com/kateLap/Fibonacci)
 
 
 [Up](#start)
