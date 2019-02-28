@@ -18,9 +18,9 @@ I'm ready to deal with difficult tasks, to interact closely with team members an
 
 ## INTERESTS <a name="2"></a>
 
-- deep learning. At the university I have some difficult but interesting subjects such as OOP, System programming, Hardware design, Cirquit design. I spend a lot of time doing laboratory works which are useful and hard at the same time.
+- DEEP LEARNING. At the university I have some difficult but interesting subjects such as OOP, System programming, Hardware design, Cirquit design. I spend a lot of time doing laboratory works which are useful and hard at the same time.
 
-- travelling. I've already visited a lot of different European countries. Every year I go abroad during my vacation. That's great to visit beatiful places and meet foreignes. Especialy I enjoy going to the mountains and climbing them or skiing in winter.
+- TRAVELLING. I've already visited a lot of different European countries. Every year I go abroad during my vacation. That's great to visit beatiful places and meet foreignes. Especialy I enjoy going to the mountains and climbing them or skiing in winter.
 
 ## LINKS <a name="3"></a>
 
